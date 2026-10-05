@@ -1,58 +1,74 @@
-<h1 align="center">Hi 👋, I'm Satya Narayan Jat</h1>
+<!--- 🚀 Dynamic Header Banner -->
 <p align="center">
-  <b>Computer Science Engineering Student & Machine Learning Enthusiast</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SATYA%20NARAYAN%20JAT&fontSize=50&fontColor=ffffff&fontWeight=bold&desc=CSE%20Student%20%7C%20Machine%20Learning%20Enthusiast&descSize=20&descAlign=62" />
 </p>
+
+<h1 align="center">
+  Hi 👋, I'm Satya Narayan Jat
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3500&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Final+Year+CSE+Student;Machine+Learning+Enthusiast;Data+Science+Practitioner" alt="Typing SVG" >
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-jat-374481338" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Seeking_Opportunities-success?style=flat" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/Status-Seeking%20Opportunities-brightgreen?style=for-the-badge" alt="Status Badge"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-* 🌱 I am currently pursuing my final year in **Computer Science and Engineering**.
-* 🧠 Deeply passionate about **Machine Learning, Data Science, and Data Structures & Algorithms (DSA)**.
-* ⚡ Focused on building end-to-end data pipelines, training robust predictive models, and translating raw data into actionable insights.
+### 🔭 What I'm Up To
+* 🌱 I’m currently finalizing my degree in **Computer Science and Engineering**.
+* 👯 I’m looking to collaborate on **Machine Learning projects or Data Science challenges.**
+* 💬 Ask me about: **Python, Data Analysis, or building ETL pipelines.**
+* 📫 How to reach me: **In the LinkedIn link above.**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
+*(Using modern, official logos)*
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+#### Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,seaborn,matplotlib,git,excel,powerbi" alt="skill icons" />
 </p>
 
-#### Core Competencies & Methodologies
-* **Data Engineering & Processing:** ETL Pipelining, Data Cleaning, Exploratory Data Analysis (EDA)
-* **Machine Learning & Modeling:** Model Training, Hyperparameter Tuning, Supervised & Unsupervised Algorithms
-* **Foundations:** Data Structures & Algorithms (DSA), Object-Oriented Programming
+#### Core Competencies
+| Area | Tools & Methodologies |
+| :--- | :--- |
+| **Data Science** | ETL Pipelining, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization |
+| **Machine Learning** | Model Training, Hyperparameter Tuning, Supervised/Unsupervised Learning Algorithms |
+| **Foundations** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) |
 
 ---
 
 ### 📊 GitHub Stats
+*(Using a modern, colorful theme)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamsenpaii1&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamsenpaii1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsenpaii1&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamsenpaii1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsenpaii1&theme=radical&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect With Me
-* **LinkedIn:** [Satya Narayan Jat](https://www.linkedin.com/in/satyam-jat-374481338)
+### 🏆 GitHub Trophies
 
-⭐️ *Feel free to check out my pinned repositories below to see my work in action!*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyamsenpaii1&theme=radical&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<!--- 访客统计器 Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyamsenpaii1&color=blueviolet&style=flat" alt="visitor count" />
+</p>
